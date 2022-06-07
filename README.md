@@ -1,6 +1,11 @@
-### Hi there 👋 I'm Alexey Krukovich
-Software Engineer at iTechArt in Minsk, Belarus
 
-[LinkedIn](http://linkedin.com/in/алексей-крукович-914698182) 
-[Website](https://krukovich.github.io/)
-
+<h1 align="center">Hi there, I'm Alexey Krukovich
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">
+  Software Engineer at iTechArt in Minsk, Belarus
+</h3>
+<h3 align="center">
+  <a href='http://linkedin.com/in/алексей-крукович-914698182'>LinkedIn</a>
+  •
+  <a href='https://krukovich.github.io/'>Website</a>
+</h3>
