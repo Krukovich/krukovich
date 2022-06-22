@@ -4,8 +4,8 @@
 <h3 align="center">
   Software Engineer at iTechArt in Minsk, Belarus
 </h3>
-<h3 align="center">
+<!-- <h3 align="center">
   <a href='http://linkedin.com/in/алексей-крукович-914698182'>LinkedIn</a>
   •
   <a href='https://krukovich.github.io/'>Website</a>
-</h3>
+</h3> -->
