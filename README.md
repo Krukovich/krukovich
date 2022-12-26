@@ -1,3 +1,4 @@
+![Header](./assets/header-image.png)
 
 <h1 align="center">Hi there, I'm Alexey Krukovich
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
@@ -9,3 +10,5 @@
   •
   <a href='https://krukovich.github.io/'>Website</a>
 </h3> -->
+
+![Stats](./profile-3d-contrib/profile-green-animate.svg)
